@@ -1,0 +1,370 @@
+<svg height="5870" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="5870" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 13:17:47 +0000  4142766 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 13:17:47 +0000    15161 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 13:17:47 +0000     2556 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 13:17:47 +0000     8674 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 13:17:47 +0000    11358 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 13:17:47 +0000     1477 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 13:17:47 +0000      231 bytes  bower.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 13:17:47 +0000     2401 bytes  build/build.less</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 13:17:47 +0000     1845 bytes  build/build3.less</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 13:17:47 +0000     1779 bytes  build/build_standalone.less</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 13:17:47 +0000     1448 bytes  build/build_standalone3.less</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 13:17:47 +0000     1063 bytes  composer.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 13:17:47 +0000    17144 bytes  dist/css/bootstrap-datepicker.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 13:17:47 +0000    18315 bytes  dist/css/bootstrap-datepicker.css.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 13:17:47 +0000    15759 bytes  dist/css/bootstrap-datepicker.min.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 13:17:47 +0000     3930 bytes  dist/css/bootstrap-datepicker.min.css.map</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 13:17:47 +0000    18010 bytes  dist/css/bootstrap-datepicker.standalone.css</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 13:17:47 +0000    20552 bytes  dist/css/bootstrap-datepicker.standalone.css.map</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 13:17:47 +0000    16491 bytes  dist/css/bootstrap-datepicker.standalone.min.css</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 13:17:47 +0000     4333 bytes  dist/css/bootstrap-datepicker.standalone.min.css\</tspan>
+<tspan x="10" y="346">.map</tspan>
+<tspan x="10" y="362"> 20.  2017-04-22 13:17:47 +0000    22818 bytes  dist/css/bootstrap-datepicker3.css</tspan>
+<tspan x="10" y="378"> 21.  2017-04-22 13:17:47 +0000    23719 bytes  dist/css/bootstrap-datepicker3.css.map</tspan>
+<tspan x="10" y="394"> 22.  2017-04-22 13:17:47 +0000    21154 bytes  dist/css/bootstrap-datepicker3.min.css</tspan>
+<tspan x="10" y="410"> 23.  2017-04-22 13:17:47 +0000     4815 bytes  dist/css/bootstrap-datepicker3.min.css.map</tspan>
+<tspan x="10" y="426"> 24.  2017-04-22 13:17:47 +0000    23583 bytes  dist/css/bootstrap-datepicker3.standalone.css</tspan>
+<tspan x="10" y="442"> 25.  2017-04-22 13:17:47 +0000    25573 bytes  dist/css/bootstrap-datepicker3.standalone.css.ma\</tspan>
+<tspan x="10" y="458">p</tspan>
+<tspan x="10" y="474"> 26.  2017-04-22 13:17:47 +0000    21799 bytes  dist/css/bootstrap-datepicker3.standalone.min.cs\</tspan>
+<tspan x="10" y="490">s</tspan>
+<tspan x="10" y="506"> 27.  2017-04-22 13:17:47 +0000     5179 bytes  dist/css/bootstrap-datepicker3.standalone.min.cs\</tspan>
+<tspan x="10" y="522">s.map</tspan>
+<tspan x="10" y="538"> 28.  2017-04-22 13:17:47 +0000    58701 bytes  dist/js/bootstrap-datepicker.js</tspan>
+<tspan x="10" y="554"> 29.  2017-04-22 13:17:47 +0000    34172 bytes  dist/js/bootstrap-datepicker.min.js</tspan>
+<tspan x="10" y="570"> 30.  2017-04-22 13:17:47 +0000      714 bytes  dist/locales/bootstrap-datepicker.ar.min.js</tspan>
+<tspan x="10" y="586"> 31.  2017-04-22 13:17:47 +0000      493 bytes  dist/locales/bootstrap-datepicker.az.min.js</tspan>
+<tspan x="10" y="602"> 32.  2017-04-22 13:17:47 +0000      615 bytes  dist/locales/bootstrap-datepicker.bg.min.js</tspan>
+<tspan x="10" y="618"> 33.  2017-04-22 13:17:47 +0000      475 bytes  dist/locales/bootstrap-datepicker.bs.min.js</tspan>
+<tspan x="10" y="634"> 34.  2017-04-22 13:17:47 +0000      513 bytes  dist/locales/bootstrap-datepicker.ca.min.js</tspan>
+<tspan x="10" y="650"> 35.  2017-04-22 13:17:47 +0000      513 bytes  dist/locales/bootstrap-datepicker.cs.min.js</tspan>
+<tspan x="10" y="666"> 36.  2017-04-22 13:17:47 +0000      433 bytes  dist/locales/bootstrap-datepicker.cy.min.js</tspan>
+<tspan x="10" y="682"> 37.  2017-04-22 13:17:47 +0000      459 bytes  dist/locales/bootstrap-datepicker.da.min.js</tspan>
+<tspan x="10" y="698"> 38.  2017-04-22 13:17:47 +0000      517 bytes  dist/locales/bootstrap-datepicker.de.min.js</tspan>
+<tspan x="10" y="714"> 39.  2017-04-22 13:17:47 +0000      764 bytes  dist/locales/bootstrap-datepicker.el.min.js</tspan>
+<tspan x="10" y="730"> 40.  2017-04-22 13:17:47 +0000      517 bytes  dist/locales/bootstrap-datepicker.en-AU.min.js</tspan>
+<tspan x="10" y="746"> 41.  2017-04-22 13:17:47 +0000      518 bytes  dist/locales/bootstrap-datepicker.en-GB.min.js</tspan>
+<tspan x="10" y="762"> 42.  2017-04-22 13:17:47 +0000      515 bytes  dist/locales/bootstrap-datepicker.eo.min.js</tspan>
+<tspan x="10" y="778"> 43.  2017-04-22 13:17:47 +0000      513 bytes  dist/locales/bootstrap-datepicker.es.min.js</tspan>
+<tspan x="10" y="794"> 44.  2017-04-22 13:17:47 +0000      537 bytes  dist/locales/bootstrap-datepicker.et.min.js</tspan>
+<tspan x="10" y="810"> 45.  2017-04-22 13:17:47 +0000      455 bytes  dist/locales/bootstrap-datepicker.eu.min.js</tspan>
+<tspan x="10" y="826"> 46.  2017-04-22 13:17:47 +0000      670 bytes  dist/locales/bootstrap-datepicker.fa.min.js</tspan>
+<tspan x="10" y="842"> 47.  2017-04-22 13:17:47 +0000      528 bytes  dist/locales/bootstrap-datepicker.fi.min.js</tspan>
+<tspan x="10" y="858"> 48.  2017-04-22 13:17:47 +0000      488 bytes  dist/locales/bootstrap-datepicker.fo.min.js</tspan>
+<tspan x="10" y="874"> 49.  2017-04-22 13:17:47 +0000      512 bytes  dist/locales/bootstrap-datepicker.fr-CH.min.js</tspan>
+<tspan x="10" y="890"> 50.  2017-04-22 13:17:47 +0000      536 bytes  dist/locales/bootstrap-datepicker.fr.min.js</tspan>
+<tspan x="10" y="906"> 51.  2017-04-22 13:17:47 +0000      489 bytes  dist/locales/bootstrap-datepicker.gl.min.js</tspan>
+<tspan x="10" y="922"> 52.  2017-04-22 13:17:47 +0000      563 bytes  dist/locales/bootstrap-datepicker.he.min.js</tspan>
+<tspan x="10" y="938"> 53.  2017-04-22 13:17:47 +0000      462 bytes  dist/locales/bootstrap-datepicker.hr.min.js</tspan>
+<tspan x="10" y="954"> 54.  2017-04-22 13:17:47 +0000      541 bytes  dist/locales/bootstrap-datepicker.hu.min.js</tspan>
+<tspan x="10" y="970"> 55.  2017-04-22 13:17:47 +0000      738 bytes  dist/locales/bootstrap-datepicker.hy.min.js</tspan>
+<tspan x="10" y="986"> 56.  2017-04-22 13:17:47 +0000      453 bytes  dist/locales/bootstrap-datepicker.id.min.js</tspan>
+<tspan x="10" y="1002"> 57.  2017-04-22 13:17:47 +0000      496 bytes  dist/locales/bootstrap-datepicker.is.min.js</tspan>
+<tspan x="10" y="1018"> 58.  2017-04-22 13:17:47 +0000      506 bytes  dist/locales/bootstrap-datepicker.it-CH.min.js</tspan>
+<tspan x="10" y="1034"> 59.  2017-04-22 13:17:47 +0000      525 bytes  dist/locales/bootstrap-datepicker.it.min.js</tspan>
+<tspan x="10" y="1050"> 60.  2017-04-22 13:17:47 +0000      502 bytes  dist/locales/bootstrap-datepicker.ja.min.js</tspan>
+<tspan x="10" y="1066"> 61.  2017-04-22 13:17:47 +0000      967 bytes  dist/locales/bootstrap-datepicker.ka.min.js</tspan>
+<tspan x="10" y="1082"> 62.  2017-04-22 13:17:47 +0000     1001 bytes  dist/locales/bootstrap-datepicker.kh.min.js</tspan>
+<tspan x="10" y="1098"> 63.  2017-04-22 13:17:47 +0000      649 bytes  dist/locales/bootstrap-datepicker.kk.min.js</tspan>
+<tspan x="10" y="1114"> 64.  2017-04-22 13:17:47 +0000      532 bytes  dist/locales/bootstrap-datepicker.ko.min.js</tspan>
+<tspan x="10" y="1130"> 65.  2017-04-22 13:17:47 +0000      443 bytes  dist/locales/bootstrap-datepicker.kr.min.js</tspan>
+<tspan x="10" y="1146"> 66.  2017-04-22 13:17:47 +0000      565 bytes  dist/locales/bootstrap-datepicker.lt.min.js</tspan>
+<tspan x="10" y="1162"> 67.  2017-04-22 13:17:47 +0000      486 bytes  dist/locales/bootstrap-datepicker.lv.min.js</tspan>
+<tspan x="10" y="1178"> 68.  2017-04-22 13:17:47 +0000      493 bytes  dist/locales/bootstrap-datepicker.me.min.js</tspan>
+<tspan x="10" y="1194"> 69.  2017-04-22 13:17:47 +0000      657 bytes  dist/locales/bootstrap-datepicker.mk.min.js</tspan>
+<tspan x="10" y="1210"> 70.  2017-04-22 13:17:47 +0000      638 bytes  dist/locales/bootstrap-datepicker.mn.min.js</tspan>
+<tspan x="10" y="1226"> 71.  2017-04-22 13:17:47 +0000      448 bytes  dist/locales/bootstrap-datepicker.ms.min.js</tspan>
+<tspan x="10" y="1242"> 72.  2017-04-22 13:17:47 +0000      462 bytes  dist/locales/bootstrap-datepicker.nb.min.js</tspan>
+<tspan x="10" y="1258"> 73.  2017-04-22 13:17:47 +0000      522 bytes  dist/locales/bootstrap-datepicker.nl-BE.min.js</tspan>
+<tspan x="10" y="1274"> 74.  2017-04-22 13:17:47 +0000      513 bytes  dist/locales/bootstrap-datepicker.nl.min.js</tspan>
+<tspan x="10" y="1290"> 75.  2017-04-22 13:17:47 +0000      492 bytes  dist/locales/bootstrap-datepicker.no.min.js</tspan>
+<tspan x="10" y="1306"> 76.  2017-04-22 13:17:47 +0000      552 bytes  dist/locales/bootstrap-datepicker.pl.min.js</tspan>
+<tspan x="10" y="1322"> 77.  2017-04-22 13:17:47 +0000      504 bytes  dist/locales/bootstrap-datepicker.pt-BR.min.js</tspan>
+<tspan x="10" y="1338"> 78.  2017-04-22 13:17:47 +0000      498 bytes  dist/locales/bootstrap-datepicker.pt.min.js</tspan>
+<tspan x="10" y="1354"> 79.  2017-04-22 13:17:47 +0000      485 bytes  dist/locales/bootstrap-datepicker.ro.min.js</tspan>
+<tspan x="10" y="1370"> 80.  2017-04-22 13:17:47 +0000      478 bytes  dist/locales/bootstrap-datepicker.rs-latin.min.j\</tspan>
+<tspan x="10" y="1386">s</tspan>
+<tspan x="10" y="1402"> 81.  2017-04-22 13:17:47 +0000      651 bytes  dist/locales/bootstrap-datepicker.rs.min.js</tspan>
+<tspan x="10" y="1418"> 82.  2017-04-22 13:17:47 +0000      704 bytes  dist/locales/bootstrap-datepicker.ru.min.js</tspan>
+<tspan x="10" y="1434"> 83.  2017-04-22 13:17:47 +0000      497 bytes  dist/locales/bootstrap-datepicker.sk.min.js</tspan>
+<tspan x="10" y="1450"> 84.  2017-04-22 13:17:47 +0000      443 bytes  dist/locales/bootstrap-datepicker.sl.min.js</tspan>
+<tspan x="10" y="1466"> 85.  2017-04-22 13:17:47 +0000      452 bytes  dist/locales/bootstrap-datepicker.sq.min.js</tspan>
+<tspan x="10" y="1482"> 86.  2017-04-22 13:17:47 +0000      478 bytes  dist/locales/bootstrap-datepicker.sr-latin.min.j\</tspan>
+<tspan x="10" y="1498">s</tspan>
+<tspan x="10" y="1514"> 87.  2017-04-22 13:17:47 +0000      651 bytes  dist/locales/bootstrap-datepicker.sr.min.js</tspan>
+<tspan x="10" y="1530"> 88.  2017-04-22 13:17:47 +0000      492 bytes  dist/locales/bootstrap-datepicker.sv.min.js</tspan>
+<tspan x="10" y="1546"> 89.  2017-04-22 13:17:47 +0000      431 bytes  dist/locales/bootstrap-datepicker.sw.min.js</tspan>
+<tspan x="10" y="1562"> 90.  2017-04-22 13:17:47 +0000      833 bytes  dist/locales/bootstrap-datepicker.th.min.js</tspan>
+<tspan x="10" y="1578"> 91.  2017-04-22 13:17:47 +0000      495 bytes  dist/locales/bootstrap-datepicker.tr.min.js</tspan>
+<tspan x="10" y="1594"> 92.  2017-04-22 13:17:47 +0000      722 bytes  dist/locales/bootstrap-datepicker.uk.min.js</tspan>
+<tspan x="10" y="1610"> 93.  2017-04-22 13:17:47 +0000      551 bytes  dist/locales/bootstrap-datepicker.vi.min.js</tspan>
+<tspan x="10" y="1626"> 94.  2017-04-22 13:17:47 +0000      593 bytes  dist/locales/bootstrap-datepicker.zh-CN.min.js</tspan>
+<tspan x="10" y="1642"> 95.  2017-04-22 13:17:47 +0000      566 bytes  dist/locales/bootstrap-datepicker.zh-TW.min.js</tspan>
+<tspan x="10" y="1658"> 96.  2017-04-22 13:17:47 +0000     5620 bytes  docs/Makefile</tspan>
+<tspan x="10" y="1674"> 97.  2017-04-22 13:17:47 +0000      821 bytes  docs/README.md</tspan>
+<tspan x="10" y="1690"> 98.  2017-04-22 13:17:47 +0000    37063 bytes  docs/_build/doctrees/environment.pickle</tspan>
+<tspan x="10" y="1706"> 99.  2017-04-22 13:17:47 +0000    10409 bytes  docs/_build/doctrees/events.doctree</tspan>
+<tspan x="10" y="1722">100.  2017-04-22 13:17:47 +0000     7887 bytes  docs/_build/doctrees/i18n.doctree</tspan>
+<tspan x="10" y="1738">101.  2017-04-22 13:17:47 +0000    24760 bytes  docs/_build/doctrees/index.doctree</tspan>
+<tspan x="10" y="1754">102.  2017-04-22 13:17:47 +0000     7067 bytes  docs/_build/doctrees/keyboard.doctree</tspan>
+<tspan x="10" y="1770">103.  2017-04-22 13:17:47 +0000    11746 bytes  docs/_build/doctrees/markup.doctree</tspan>
+<tspan x="10" y="1786">104.  2017-04-22 13:17:47 +0000    30984 bytes  docs/_build/doctrees/methods.doctree</tspan>
+<tspan x="10" y="1802">105.  2017-04-22 13:17:47 +0000   103329 bytes  docs/_build/doctrees/options.doctree</tspan>
+<tspan x="10" y="1818">106.  2017-04-22 13:17:47 +0000    37249 bytes  docs/_build/html/_images/demo_head.png</tspan>
+<tspan x="10" y="1834">107.  2017-04-22 13:17:47 +0000    13951 bytes  docs/_build/html/_images/markup_component.png</tspan>
+<tspan x="10" y="1850">108.  2017-04-22 13:17:47 +0000    20237 bytes  docs/_build/html/_images/markup_daterange.png</tspan>
+<tspan x="10" y="1866">109.  2017-04-22 13:17:47 +0000    12398 bytes  docs/_build/html/_images/markup_inline.png</tspan>
+<tspan x="10" y="1882">110.  2017-04-22 13:17:47 +0000    14116 bytes  docs/_build/html/_images/markup_input.png</tspan>
+<tspan x="10" y="1898">111.  2017-04-22 13:17:47 +0000    21973 bytes  docs/_build/html/_images/option_calendarweeks.pn\</tspan>
+<tspan x="10" y="1914">g</tspan>
+<tspan x="10" y="1930">112.  2017-04-22 13:17:47 +0000    14296 bytes  docs/_build/html/_images/option_clearbtn.png</tspan>
+<tspan x="10" y="1946">113.  2017-04-22 13:17:47 +0000    13990 bytes  docs/_build/html/_images/option_daysofweekdisabl\</tspan>
+<tspan x="10" y="1962">ed.png</tspan>
+<tspan x="10" y="1978">114.  2017-04-22 13:17:47 +0000    13386 bytes  docs/_build/html/_images/option_enddate.png</tspan>
+<tspan x="10" y="1994">115.  2017-04-22 13:17:47 +0000    47418 bytes  docs/_build/html/_images/option_language.png</tspan>
+<tspan x="10" y="2010">116.  2017-04-22 13:17:47 +0000    28718 bytes  docs/_build/html/_images/option_multidate.png</tspan>
+<tspan x="10" y="2026">117.  2017-04-22 13:17:47 +0000    13883 bytes  docs/_build/html/_images/option_startdate.png</tspan>
+<tspan x="10" y="2042">118.  2017-04-22 13:17:47 +0000    14549 bytes  docs/_build/html/_images/option_todaybtn.png</tspan>
+<tspan x="10" y="2058">119.  2017-04-22 13:17:47 +0000    19006 bytes  docs/_build/html/_images/option_todayhighlight.p\</tspan>
+<tspan x="10" y="2074">ng</tspan>
+<tspan x="10" y="2090">120.  2017-04-22 13:17:47 +0000    24197 bytes  docs/_build/html/_images/option_weekstart.png</tspan>
+<tspan x="10" y="2106">121.  2017-04-22 13:17:47 +0000     1336 bytes  docs/_build/html/_sources/events.txt</tspan>
+<tspan x="10" y="2122">122.  2017-04-22 13:17:47 +0000     1615 bytes  docs/_build/html/_sources/i18n.txt</tspan>
+<tspan x="10" y="2138">123.  2017-04-22 13:17:47 +0000     4082 bytes  docs/_build/html/_sources/index.txt</tspan>
+<tspan x="10" y="2154">124.  2017-04-22 13:17:47 +0000     1346 bytes  docs/_build/html/_sources/keyboard.txt</tspan>
+<tspan x="10" y="2170">125.  2017-04-22 13:17:47 +0000     2360 bytes  docs/_build/html/_sources/markup.txt</tspan>
+<tspan x="10" y="2186">126.  2017-04-22 13:17:47 +0000     4279 bytes  docs/_build/html/_sources/methods.txt</tspan>
+<tspan x="10" y="2202">127.  2017-04-22 13:17:47 +0000    17114 bytes  docs/_build/html/_sources/options.txt</tspan>
+<tspan x="10" y="2218">128.  2017-04-22 13:17:47 +0000      673 bytes  docs/_build/html/_static/ajax-loader.gif</tspan>
+<tspan x="10" y="2234">129.  2017-04-22 13:17:47 +0000     9490 bytes  docs/_build/html/_static/basic.css</tspan>
+<tspan x="10" y="2250">130.  2017-04-22 13:17:47 +0000     3500 bytes  docs/_build/html/_static/comment-bright.png</tspan>
+<tspan x="10" y="2266">131.  2017-04-22 13:17:47 +0000     3578 bytes  docs/_build/html/_static/comment-close.png</tspan>
+<tspan x="10" y="2282">132.  2017-04-22 13:17:47 +0000     3445 bytes  docs/_build/html/_static/comment.png</tspan>
+<tspan x="10" y="2298">133.  2017-04-22 13:17:47 +0000     3403 bytes  docs/_build/html/_static/css/badge_only.css</tspan>
+<tspan x="10" y="2314">134.  2017-04-22 13:17:47 +0000   103575 bytes  docs/_build/html/_static/css/theme.css</tspan>
+<tspan x="10" y="2330">135.  2017-04-22 13:17:47 +0000     7377 bytes  docs/_build/html/_static/doctools.js</tspan>
+<tspan x="10" y="2346">136.  2017-04-22 13:17:47 +0000      347 bytes  docs/_build/html/_static/down-pressed.png</tspan>
+<tspan x="10" y="2362">137.  2017-04-22 13:17:47 +0000      347 bytes  docs/_build/html/_static/down.png</tspan>
+<tspan x="10" y="2378">138.  2017-04-22 13:17:47 +0000      358 bytes  docs/_build/html/_static/file.png</tspan>
+<tspan x="10" y="2394">139.  2017-04-22 13:17:47 +0000    66352 bytes  docs/_build/html/_static/fonts/Inconsolata-Bold.\</tspan>
+<tspan x="10" y="2410">ttf</tspan>
+<tspan x="10" y="2426">140.  2017-04-22 13:17:47 +0000    84548 bytes  docs/_build/html/_static/fonts/Inconsolata-Regul\</tspan>
+<tspan x="10" y="2442">ar.ttf</tspan>
+<tspan x="10" y="2458">141.  2017-04-22 13:17:47 +0000   121788 bytes  docs/_build/html/_static/fonts/Lato-Bold.ttf</tspan>
+<tspan x="10" y="2474">142.  2017-04-22 13:17:47 +0000   120196 bytes  docs/_build/html/_static/fonts/Lato-Regular.ttf</tspan>
+<tspan x="10" y="2490">143.  2017-04-22 13:17:47 +0000   170616 bytes  docs/_build/html/_static/fonts/RobotoSlab-Bold.t\</tspan>
+<tspan x="10" y="2506">tf</tspan>
+<tspan x="10" y="2522">144.  2017-04-22 13:17:47 +0000   169064 bytes  docs/_build/html/_static/fonts/RobotoSlab-Regula\</tspan>
+<tspan x="10" y="2538">r.ttf</tspan>
+<tspan x="10" y="2554">145.  2017-04-22 13:17:47 +0000    56006 bytes  docs/_build/html/_static/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="2570">nt.eot</tspan>
+<tspan x="10" y="2586">146.  2017-04-22 13:17:47 +0000   287007 bytes  docs/_build/html/_static/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="2602">nt.svg</tspan>
+<tspan x="10" y="2618">147.  2017-04-22 13:17:47 +0000   112160 bytes  docs/_build/html/_static/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="2634">nt.ttf</tspan>
+<tspan x="10" y="2650">148.  2017-04-22 13:17:47 +0000    65452 bytes  docs/_build/html/_static/fonts/fontawesome-webfo\</tspan>
+<tspan x="10" y="2666">nt.woff</tspan>
+<tspan x="10" y="2682">149.  2017-04-22 13:17:47 +0000   282766 bytes  docs/_build/html/_static/jquery-1.11.1.js</tspan>
+<tspan x="10" y="2698">150.  2017-04-22 13:17:47 +0000    95786 bytes  docs/_build/html/_static/jquery.js</tspan>
+<tspan x="10" y="2714">151.  2017-04-22 13:17:47 +0000    15414 bytes  docs/_build/html/_static/js/modernizr.min.js</tspan>
+<tspan x="10" y="2730">152.  2017-04-22 13:17:47 +0000     5551 bytes  docs/_build/html/_static/js/theme.js</tspan>
+<tspan x="10" y="2746">153.  2017-04-22 13:17:47 +0000      173 bytes  docs/_build/html/_static/minus.png</tspan>
+<tspan x="10" y="2762">154.  2017-04-22 13:17:47 +0000      173 bytes  docs/_build/html/_static/plus.png</tspan>
+<tspan x="10" y="2778">155.  2017-04-22 13:17:47 +0000     3991 bytes  docs/_build/html/_static/pygments.css</tspan>
+<tspan x="10" y="2794">156.  2017-04-22 13:17:47 +0000    37249 bytes  docs/_build/html/_static/screenshots/demo_head.p\</tspan>
+<tspan x="10" y="2810">ng</tspan>
+<tspan x="10" y="2826">157.  2017-04-22 13:17:47 +0000    13951 bytes  docs/_build/html/_static/screenshots/markup_comp\</tspan>
+<tspan x="10" y="2842">onent.png</tspan>
+<tspan x="10" y="2858">158.  2017-04-22 13:17:47 +0000    20237 bytes  docs/_build/html/_static/screenshots/markup_date\</tspan>
+<tspan x="10" y="2874">range.png</tspan>
+<tspan x="10" y="2890">159.  2017-04-22 13:17:47 +0000    12398 bytes  docs/_build/html/_static/screenshots/markup_inli\</tspan>
+<tspan x="10" y="2906">ne.png</tspan>
+<tspan x="10" y="2922">160.  2017-04-22 13:17:47 +0000    14116 bytes  docs/_build/html/_static/screenshots/markup_inpu\</tspan>
+<tspan x="10" y="2938">t.png</tspan>
+<tspan x="10" y="2954">161.  2017-04-22 13:17:47 +0000    21973 bytes  docs/_build/html/_static/screenshots/option_cale\</tspan>
+<tspan x="10" y="2970">ndarweeks.png</tspan>
+<tspan x="10" y="2986">162.  2017-04-22 13:17:47 +0000    14296 bytes  docs/_build/html/_static/screenshots/option_clea\</tspan>
+<tspan x="10" y="3002">rbtn.png</tspan>
+<tspan x="10" y="3018">163.  2017-04-22 13:17:47 +0000    13990 bytes  docs/_build/html/_static/screenshots/option_days\</tspan>
+<tspan x="10" y="3034">ofweekdisabled.png</tspan>
+<tspan x="10" y="3050">164.  2017-04-22 13:17:47 +0000    13386 bytes  docs/_build/html/_static/screenshots/option_endd\</tspan>
+<tspan x="10" y="3066">ate.png</tspan>
+<tspan x="10" y="3082">165.  2017-04-22 13:17:47 +0000    47418 bytes  docs/_build/html/_static/screenshots/option_lang\</tspan>
+<tspan x="10" y="3098">uage.png</tspan>
+<tspan x="10" y="3114">166.  2017-04-22 13:17:47 +0000    28718 bytes  docs/_build/html/_static/screenshots/option_mult\</tspan>
+<tspan x="10" y="3130">idate.png</tspan>
+<tspan x="10" y="3146">167.  2017-04-22 13:17:47 +0000    13883 bytes  docs/_build/html/_static/screenshots/option_star\</tspan>
+<tspan x="10" y="3162">tdate.png</tspan>
+<tspan x="10" y="3178">168.  2017-04-22 13:17:47 +0000    14549 bytes  docs/_build/html/_static/screenshots/option_toda\</tspan>
+<tspan x="10" y="3194">ybtn.png</tspan>
+<tspan x="10" y="3210">169.  2017-04-22 13:17:47 +0000    19006 bytes  docs/_build/html/_static/screenshots/option_toda\</tspan>
+<tspan x="10" y="3226">yhighlight.png</tspan>
+<tspan x="10" y="3242">170.  2017-04-22 13:17:47 +0000    24197 bytes  docs/_build/html/_static/screenshots/option_week\</tspan>
+<tspan x="10" y="3258">start.png</tspan>
+<tspan x="10" y="3274">171.  2017-04-22 13:17:47 +0000    18860 bytes  docs/_build/html/_static/searchtools.js</tspan>
+<tspan x="10" y="3290">172.  2017-04-22 13:17:47 +0000    35168 bytes  docs/_build/html/_static/underscore-1.3.1.js</tspan>
+<tspan x="10" y="3306">173.  2017-04-22 13:17:47 +0000    12140 bytes  docs/_build/html/_static/underscore.js</tspan>
+<tspan x="10" y="3322">174.  2017-04-22 13:17:47 +0000      345 bytes  docs/_build/html/_static/up-pressed.png</tspan>
+<tspan x="10" y="3338">175.  2017-04-22 13:17:47 +0000      345 bytes  docs/_build/html/_static/up.png</tspan>
+<tspan x="10" y="3354">176.  2017-04-22 13:17:47 +0000    25350 bytes  docs/_build/html/_static/websupport.js</tspan>
+<tspan x="10" y="3370">177.  2017-04-22 13:17:47 +0000     8689 bytes  docs/_build/html/events.html</tspan>
+<tspan x="10" y="3386">178.  2017-04-22 13:17:47 +0000     4254 bytes  docs/_build/html/genindex.html</tspan>
+<tspan x="10" y="3402">179.  2017-04-22 13:17:47 +0000    11208 bytes  docs/_build/html/i18n.html</tspan>
+<tspan x="10" y="3418">180.  2017-04-22 13:17:47 +0000    23442 bytes  docs/_build/html/index.html</tspan>
+<tspan x="10" y="3434">181.  2017-04-22 13:17:47 +0000     7261 bytes  docs/_build/html/keyboard.html</tspan>
+<tspan x="10" y="3450">182.  2017-04-22 13:17:47 +0000    12379 bytes  docs/_build/html/markup.html</tspan>
+<tspan x="10" y="3466">183.  2017-04-22 13:17:47 +0000    16747 bytes  docs/_build/html/methods.html</tspan>
+<tspan x="10" y="3482">184.  2017-04-22 13:17:47 +0000      351 bytes  docs/_build/html/objects.inv</tspan>
+<tspan x="10" y="3498">185.  2017-04-22 13:17:47 +0000    41680 bytes  docs/_build/html/options.html</tspan>
+<tspan x="10" y="3514">186.  2017-04-22 13:17:47 +0000     4648 bytes  docs/_build/html/search.html</tspan>
+<tspan x="10" y="3530">187.  2017-04-22 13:17:47 +0000     7272 bytes  docs/_build/html/searchindex.js</tspan>
+<tspan x="10" y="3546">188.  2017-04-22 13:17:47 +0000     1149 bytes  docs/_screenshots/demo_head.html</tspan>
+<tspan x="10" y="3562">189.  2017-04-22 13:17:47 +0000      568 bytes  docs/_screenshots/markup_component.html</tspan>
+<tspan x="10" y="3578">190.  2017-04-22 13:17:47 +0000     1047 bytes  docs/_screenshots/markup_daterange.html</tspan>
+<tspan x="10" y="3594">191.  2017-04-22 13:17:47 +0000      372 bytes  docs/_screenshots/markup_inline.html</tspan>
+<tspan x="10" y="3610">192.  2017-04-22 13:17:47 +0000      445 bytes  docs/_screenshots/markup_input.html</tspan>
+<tspan x="10" y="3626">193.  2017-04-22 13:17:47 +0000      666 bytes  docs/_screenshots/option_calendarweeks.html</tspan>
+<tspan x="10" y="3642">194.  2017-04-22 13:17:47 +0000      481 bytes  docs/_screenshots/option_clearbtn.html</tspan>
+<tspan x="10" y="3658">195.  2017-04-22 13:17:47 +0000      493 bytes  docs/_screenshots/option_daysofweekdisabled.html</tspan>
+<tspan x="10" y="3674">196.  2017-04-22 13:17:47 +0000      488 bytes  docs/_screenshots/option_enddate.html</tspan>
+<tspan x="10" y="3690">197.  2017-04-22 13:17:47 +0000     1562 bytes  docs/_screenshots/option_language.html</tspan>
+<tspan x="10" y="3706">198.  2017-04-22 13:17:47 +0000      835 bytes  docs/_screenshots/option_multidate.html</tspan>
+<tspan x="10" y="3722">199.  2017-04-22 13:17:47 +0000      490 bytes  docs/_screenshots/option_startdate.html</tspan>
+<tspan x="10" y="3738">200.  2017-04-22 13:17:47 +0000      439 bytes  docs/_screenshots/option_todaybtn.html</tspan>
+<tspan x="10" y="3754">201.  2017-04-22 13:17:47 +0000     1747 bytes  docs/_screenshots/option_todayhighlight.html</tspan>
+<tspan x="10" y="3770">202.  2017-04-22 13:17:47 +0000      695 bytes  docs/_screenshots/option_weekstart.html</tspan>
+<tspan x="10" y="3786">203.  2017-04-22 13:17:47 +0000      338 bytes  docs/_screenshots/script/common.css</tspan>
+<tspan x="10" y="3802">204.  2017-04-22 13:17:47 +0000      163 bytes  docs/_screenshots/script/common.js</tspan>
+<tspan x="10" y="3818">205.  2017-04-22 13:17:47 +0000      844 bytes  docs/_screenshots/script/debug.js</tspan>
+<tspan x="10" y="3834">206.  2017-04-22 13:17:47 +0000     9400 bytes  docs/_screenshots/script/html-imports.min.js</tspan>
+<tspan x="10" y="3850">207.  2017-04-22 13:17:47 +0000     2288 bytes  docs/_screenshots/script/screenshot.js</tspan>
+<tspan x="10" y="3866">208.  2017-04-22 13:17:47 +0000    37249 bytes  docs/_static/screenshots/demo_head.png</tspan>
+<tspan x="10" y="3882">209.  2017-04-22 13:17:47 +0000    13951 bytes  docs/_static/screenshots/markup_component.png</tspan>
+<tspan x="10" y="3898">210.  2017-04-22 13:17:47 +0000    20237 bytes  docs/_static/screenshots/markup_daterange.png</tspan>
+<tspan x="10" y="3914">211.  2017-04-22 13:17:47 +0000    12398 bytes  docs/_static/screenshots/markup_inline.png</tspan>
+<tspan x="10" y="3930">212.  2017-04-22 13:17:47 +0000    14116 bytes  docs/_static/screenshots/markup_input.png</tspan>
+<tspan x="10" y="3946">213.  2017-04-22 13:17:47 +0000    21973 bytes  docs/_static/screenshots/option_calendarweeks.pn\</tspan>
+<tspan x="10" y="3962">g</tspan>
+<tspan x="10" y="3978">214.  2017-04-22 13:17:47 +0000    14296 bytes  docs/_static/screenshots/option_clearbtn.png</tspan>
+<tspan x="10" y="3994">215.  2017-04-22 13:17:47 +0000    13990 bytes  docs/_static/screenshots/option_daysofweekdisabl\</tspan>
+<tspan x="10" y="4010">ed.png</tspan>
+<tspan x="10" y="4026">216.  2017-04-22 13:17:47 +0000    13386 bytes  docs/_static/screenshots/option_enddate.png</tspan>
+<tspan x="10" y="4042">217.  2017-04-22 13:17:47 +0000    47418 bytes  docs/_static/screenshots/option_language.png</tspan>
+<tspan x="10" y="4058">218.  2017-04-22 13:17:47 +0000    28718 bytes  docs/_static/screenshots/option_multidate.png</tspan>
+<tspan x="10" y="4074">219.  2017-04-22 13:17:47 +0000    13883 bytes  docs/_static/screenshots/option_startdate.png</tspan>
+<tspan x="10" y="4090">220.  2017-04-22 13:17:47 +0000    14549 bytes  docs/_static/screenshots/option_todaybtn.png</tspan>
+<tspan x="10" y="4106">221.  2017-04-22 13:17:47 +0000    19006 bytes  docs/_static/screenshots/option_todayhighlight.p\</tspan>
+<tspan x="10" y="4122">ng</tspan>
+<tspan x="10" y="4138">222.  2017-04-22 13:17:47 +0000    24197 bytes  docs/_static/screenshots/option_weekstart.png</tspan>
+<tspan x="10" y="4154">223.  2017-04-22 13:17:47 +0000     8002 bytes  docs/conf.py</tspan>
+<tspan x="10" y="4170">224.  2017-04-22 13:17:47 +0000     1336 bytes  docs/events.rst</tspan>
+<tspan x="10" y="4186">225.  2017-04-22 13:17:47 +0000     1615 bytes  docs/i18n.rst</tspan>
+<tspan x="10" y="4202">226.  2017-04-22 13:17:47 +0000     4083 bytes  docs/index.rst</tspan>
+<tspan x="10" y="4218">227.  2017-04-22 13:17:47 +0000     1346 bytes  docs/keyboard.rst</tspan>
+<tspan x="10" y="4234">228.  2017-04-22 13:17:47 +0000     5124 bytes  docs/make.bat</tspan>
+<tspan x="10" y="4250">229.  2017-04-22 13:17:47 +0000     2360 bytes  docs/markup.rst</tspan>
+<tspan x="10" y="4266">230.  2017-04-22 13:17:47 +0000     4279 bytes  docs/methods.rst</tspan>
+<tspan x="10" y="4282">231.  2017-04-22 13:17:47 +0000    15546 bytes  docs/options.rst</tspan>
+<tspan x="10" y="4298">232.  2017-04-22 13:17:47 +0000       17 bytes  docs/requirements.txt</tspan>
+<tspan x="10" y="4314">233.  2017-04-22 13:17:47 +0000    59524 bytes  js/bootstrap-datepicker.js</tspan>
+<tspan x="10" y="4330">234.  2017-04-22 13:17:47 +0000      949 bytes  js/locales/bootstrap-datepicker.ar.js</tspan>
+<tspan x="10" y="4346">235.  2017-04-22 13:17:47 +0000      638 bytes  js/locales/bootstrap-datepicker.az.js</tspan>
+<tspan x="10" y="4362">236.  2017-04-22 13:17:47 +0000      804 bytes  js/locales/bootstrap-datepicker.bg.js</tspan>
+<tspan x="10" y="4378">237.  2017-04-22 13:17:47 +0000      616 bytes  js/locales/bootstrap-datepicker.bs.js</tspan>
+<tspan x="10" y="4394">238.  2017-04-22 13:17:47 +0000      699 bytes  js/locales/bootstrap-datepicker.ca.js</tspan>
+<tspan x="10" y="4410">239.  2017-04-22 13:17:47 +0000      746 bytes  js/locales/bootstrap-datepicker.cs.js</tspan>
+<tspan x="10" y="4426">240.  2017-04-22 13:17:47 +0000      602 bytes  js/locales/bootstrap-datepicker.cy.js</tspan>
+<tspan x="10" y="4442">241.  2017-04-22 13:17:47 +0000      695 bytes  js/locales/bootstrap-datepicker.da.js</tspan>
+<tspan x="10" y="4458">242.  2017-04-22 13:17:47 +0000      698 bytes  js/locales/bootstrap-datepicker.de.js</tspan>
+<tspan x="10" y="4474">243.  2017-04-22 13:17:47 +0000      928 bytes  js/locales/bootstrap-datepicker.el.js</tspan>
+<tspan x="10" y="4490">244.  2017-04-22 13:17:47 +0000      721 bytes  js/locales/bootstrap-datepicker.en-AU.js</tspan>
+<tspan x="10" y="4506">245.  2017-04-22 13:17:47 +0000      714 bytes  js/locales/bootstrap-datepicker.en-GB.js</tspan>
+<tspan x="10" y="4522">246.  2017-04-22 13:17:47 +0000      712 bytes  js/locales/bootstrap-datepicker.eo.js</tspan>
+<tspan x="10" y="4538">247.  2017-04-22 13:17:47 +0000      706 bytes  js/locales/bootstrap-datepicker.es.js</tspan>
+<tspan x="10" y="4554">248.  2017-04-22 13:17:47 +0000      784 bytes  js/locales/bootstrap-datepicker.et.js</tspan>
+<tspan x="10" y="4570">249.  2017-04-22 13:17:47 +0000      673 bytes  js/locales/bootstrap-datepicker.eu.js</tspan>
+<tspan x="10" y="4586">250.  2017-04-22 13:17:47 +0000      866 bytes  js/locales/bootstrap-datepicker.fa.js</tspan>
+<tspan x="10" y="4602">251.  2017-04-22 13:17:47 +0000      722 bytes  js/locales/bootstrap-datepicker.fi.js</tspan>
+<tspan x="10" y="4618">252.  2017-04-22 13:17:47 +0000      686 bytes  js/locales/bootstrap-datepicker.fo.js</tspan>
+<tspan x="10" y="4634">253.  2017-04-22 13:17:47 +0000      813 bytes  js/locales/bootstrap-datepicker.fr-CH.js</tspan>
+<tspan x="10" y="4650">254.  2017-04-22 13:17:47 +0000      724 bytes  js/locales/bootstrap-datepicker.fr.js</tspan>
+<tspan x="10" y="4666">255.  2017-04-22 13:17:47 +0000      579 bytes  js/locales/bootstrap-datepicker.gl.js</tspan>
+<tspan x="10" y="4682">256.  2017-04-22 13:17:47 +0000      767 bytes  js/locales/bootstrap-datepicker.he.js</tspan>
+<tspan x="10" y="4698">257.  2017-04-22 13:17:47 +0000      573 bytes  js/locales/bootstrap-datepicker.hr.js</tspan>
+<tspan x="10" y="4714">258.  2017-04-22 13:17:47 +0000      732 bytes  js/locales/bootstrap-datepicker.hu.js</tspan>
+<tspan x="10" y="4730">259.  2017-04-22 13:17:47 +0000      921 bytes  js/locales/bootstrap-datepicker.hy.js</tspan>
+<tspan x="10" y="4746">260.  2017-04-22 13:17:47 +0000      629 bytes  js/locales/bootstrap-datepicker.id.js</tspan>
+<tspan x="10" y="4762">261.  2017-04-22 13:17:47 +0000      682 bytes  js/locales/bootstrap-datepicker.is.js</tspan>
+<tspan x="10" y="4778">262.  2017-04-22 13:17:47 +0000      804 bytes  js/locales/bootstrap-datepicker.it-CH.js</tspan>
+<tspan x="10" y="4794">263.  2017-04-22 13:17:47 +0000      713 bytes  js/locales/bootstrap-datepicker.it.js</tspan>
+<tspan x="10" y="4810">264.  2017-04-22 13:17:47 +0000      694 bytes  js/locales/bootstrap-datepicker.ja.js</tspan>
+<tspan x="10" y="4826">265.  2017-04-22 13:17:47 +0000     1219 bytes  js/locales/bootstrap-datepicker.ka.js</tspan>
+<tspan x="10" y="4842">266.  2017-04-22 13:17:47 +0000     1189 bytes  js/locales/bootstrap-datepicker.kh.js</tspan>
+<tspan x="10" y="4858">267.  2017-04-22 13:17:47 +0000      829 bytes  js/locales/bootstrap-datepicker.kk.js</tspan>
+<tspan x="10" y="4874">268.  2017-04-22 13:17:47 +0000      767 bytes  js/locales/bootstrap-datepicker.ko.js</tspan>
+<tspan x="10" y="4890">269.  2017-04-22 13:17:47 +0000      836 bytes  js/locales/bootstrap-datepicker.kr.js</tspan>
+<tspan x="10" y="4906">270.  2017-04-22 13:17:47 +0000      827 bytes  js/locales/bootstrap-datepicker.lt.js</tspan>
+<tspan x="10" y="4922">271.  2017-04-22 13:17:47 +0000      706 bytes  js/locales/bootstrap-datepicker.lv.js</tspan>
+<tspan x="10" y="4938">272.  2017-04-22 13:17:47 +0000      683 bytes  js/locales/bootstrap-datepicker.me.js</tspan>
+<tspan x="10" y="4954">273.  2017-04-22 13:17:47 +0000      884 bytes  js/locales/bootstrap-datepicker.mk.js</tspan>
+<tspan x="10" y="4970">274.  2017-04-22 13:17:47 +0000      893 bytes  js/locales/bootstrap-datepicker.mn.js</tspan>
+<tspan x="10" y="4986">275.  2017-04-22 13:17:47 +0000      628 bytes  js/locales/bootstrap-datepicker.ms.js</tspan>
+<tspan x="10" y="5002">276.  2017-04-22 13:17:47 +0000      662 bytes  js/locales/bootstrap-datepicker.nb.js</tspan>
+<tspan x="10" y="5018">277.  2017-04-22 13:17:47 +0000      742 bytes  js/locales/bootstrap-datepicker.nl-BE.js</tspan>
+<tspan x="10" y="5034">278.  2017-04-22 13:17:47 +0000      706 bytes  js/locales/bootstrap-datepicker.nl.js</tspan>
+<tspan x="10" y="5050">279.  2017-04-22 13:17:47 +0000      662 bytes  js/locales/bootstrap-datepicker.no.js</tspan>
+<tspan x="10" y="5066">280.  2017-04-22 13:17:47 +0000      784 bytes  js/locales/bootstrap-datepicker.pl.js</tspan>
+<tspan x="10" y="5082">281.  2017-04-22 13:17:47 +0000      686 bytes  js/locales/bootstrap-datepicker.pt-BR.js</tspan>
+<tspan x="10" y="5098">282.  2017-04-22 13:17:47 +0000      741 bytes  js/locales/bootstrap-datepicker.pt.js</tspan>
+<tspan x="10" y="5114">283.  2017-04-22 13:17:47 +0000      670 bytes  js/locales/bootstrap-datepicker.ro.js</tspan>
+<tspan x="10" y="5130">284.  2017-04-22 13:17:47 +0000      664 bytes  js/locales/bootstrap-datepicker.rs-latin.js</tspan>
+<tspan x="10" y="5146">285.  2017-04-22 13:17:47 +0000      843 bytes  js/locales/bootstrap-datepicker.rs.js</tspan>
+<tspan x="10" y="5162">286.  2017-04-22 13:17:47 +0000      892 bytes  js/locales/bootstrap-datepicker.ru.js</tspan>
+<tspan x="10" y="5178">287.  2017-04-22 13:17:47 +0000      728 bytes  js/locales/bootstrap-datepicker.sk.js</tspan>
+<tspan x="10" y="5194">288.  2017-04-22 13:17:47 +0000      620 bytes  js/locales/bootstrap-datepicker.sl.js</tspan>
+<tspan x="10" y="5210">289.  2017-04-22 13:17:47 +0000      636 bytes  js/locales/bootstrap-datepicker.sq.js</tspan>
+<tspan x="10" y="5226">290.  2017-04-22 13:17:47 +0000      664 bytes  js/locales/bootstrap-datepicker.sr-latin.js</tspan>
+<tspan x="10" y="5242">291.  2017-04-22 13:17:47 +0000      843 bytes  js/locales/bootstrap-datepicker.sr.js</tspan>
+<tspan x="10" y="5258">292.  2017-04-22 13:17:47 +0000      681 bytes  js/locales/bootstrap-datepicker.sv.js</tspan>
+<tspan x="10" y="5274">293.  2017-04-22 13:17:47 +0000      750 bytes  js/locales/bootstrap-datepicker.sw.js</tspan>
+<tspan x="10" y="5290">294.  2017-04-22 13:17:47 +0000     1008 bytes  js/locales/bootstrap-datepicker.th.js</tspan>
+<tspan x="10" y="5306">295.  2017-04-22 13:17:47 +0000      686 bytes  js/locales/bootstrap-datepicker.tr.js</tspan>
+<tspan x="10" y="5322">296.  2017-04-22 13:17:47 +0000      887 bytes  js/locales/bootstrap-datepicker.uk.js</tspan>
+<tspan x="10" y="5338">297.  2017-04-22 13:17:47 +0000      733 bytes  js/locales/bootstrap-datepicker.vi.js</tspan>
+<tspan x="10" y="5354">298.  2017-04-22 13:17:47 +0000      789 bytes  js/locales/bootstrap-datepicker.zh-CN.js</tspan>
+<tspan x="10" y="5370">299.  2017-04-22 13:17:47 +0000      853 bytes  js/locales/bootstrap-datepicker.zh-TW.js</tspan>
+<tspan x="10" y="5386">300.  2017-04-22 13:17:47 +0000     4802 bytes  less/datepicker.less</tspan>
+<tspan x="10" y="5402">301.  2017-04-22 13:17:47 +0000     5242 bytes  less/datepicker3.less</tspan>
+<tspan x="10" y="5418">302.  2017-04-22 13:17:47 +0000     1215 bytes  package.json</tspan>
+<tspan x="10" y="5434">303.  2017-04-22 13:17:47 +0000     1457 bytes  tests/README.md</tspan>
+<tspan x="10" y="5450">304.  2017-04-22 13:17:47 +0000     1656 bytes  tests/assets/coverage.js</tspan>
+<tspan x="10" y="5466">305.  2017-04-22 13:17:47 +0000    93868 bytes  tests/assets/jquery-1.7.1.min.js</tspan>
+<tspan x="10" y="5482">306.  2017-04-22 13:17:47 +0000     1407 bytes  tests/assets/mock.js</tspan>
+<tspan x="10" y="5498">307.  2017-04-22 13:17:47 +0000     1079 bytes  tests/assets/qunit-logging.js</tspan>
+<tspan x="10" y="5514">308.  2017-04-22 13:17:47 +0000     4654 bytes  tests/assets/qunit.css</tspan>
+<tspan x="10" y="5530">309.  2017-04-22 13:17:47 +0000    43556 bytes  tests/assets/qunit.js</tspan>
+<tspan x="10" y="5546">310.  2017-04-22 13:17:47 +0000      617 bytes  tests/assets/utils.js</tspan>
+<tspan x="10" y="5562">311.  2017-04-22 13:17:47 +0000     1592 bytes  tests/suites/calendar-weeks.js</tspan>
+<tspan x="10" y="5578">312.  2017-04-22 13:17:47 +0000     8622 bytes  tests/suites/component.js</tspan>
+<tspan x="10" y="5594">313.  2017-04-22 13:17:47 +0000     4122 bytes  tests/suites/data-api.js</tspan>
+<tspan x="10" y="5610">314.  2017-04-22 13:17:47 +0000    11857 bytes  tests/suites/events.js</tspan>
+<tspan x="10" y="5626">315.  2017-04-22 13:17:47 +0000     8612 bytes  tests/suites/formats.js</tspan>
+<tspan x="10" y="5642">316.  2017-04-22 13:17:47 +0000      769 bytes  tests/suites/inline.js</tspan>
+<tspan x="10" y="5658">317.  2017-04-22 13:17:47 +0000     8423 bytes  tests/suites/keyboard_navigation/2011.js</tspan>
+<tspan x="10" y="5674">318.  2017-04-22 13:17:47 +0000    17662 bytes  tests/suites/keyboard_navigation/2012.js</tspan>
+<tspan x="10" y="5690">319.  2017-04-22 13:17:47 +0000     1487 bytes  tests/suites/keyboard_navigation/all.js</tspan>
+<tspan x="10" y="5706">320.  2017-04-22 13:17:47 +0000     6156 bytes  tests/suites/methods.js</tspan>
+<tspan x="10" y="5722">321.  2017-04-22 13:17:47 +0000      697 bytes  tests/suites/methods_jquery.js</tspan>
+<tspan x="10" y="5738">322.  2017-04-22 13:17:47 +0000     2514 bytes  tests/suites/mouse_navigation/2011.js</tspan>
+<tspan x="10" y="5754">323.  2017-04-22 13:17:47 +0000    10321 bytes  tests/suites/mouse_navigation/2012.js</tspan>
+<tspan x="10" y="5770">324.  2017-04-22 13:17:47 +0000     1102 bytes  tests/suites/mouse_navigation/all.js</tspan>
+<tspan x="10" y="5786">325.  2017-04-22 13:17:47 +0000      651 bytes  tests/suites/noconflict.js</tspan>
+<tspan x="10" y="5802">326.  2017-04-22 13:17:47 +0000    53005 bytes  tests/suites/options.js</tspan>
+<tspan x="10" y="5818">327.  2017-04-22 13:17:47 +0000      739 bytes  tests/suites/timezone.js</tspan>
+<tspan x="10" y="5834">328.  2017-04-22 13:17:47 +0000     2259 bytes  tests/tests.html</tspan>
+<tspan x="10" y="5850">329.  2017-04-22 13:17:47 +0000     1162 bytes  tests/timezone.html</tspan>
+</text>
+</svg>
